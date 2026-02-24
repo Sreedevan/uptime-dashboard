@@ -95,7 +95,7 @@ export default function App() {
 
       <main className="dashboard-main">
         <div className="section-heading">
-          <span className="section-icon">=</span>
+          <span className="section-icon">💬</span>
           <div>
             <h1>{selectedReport.subtitle}</h1>
           </div>
